@@ -1,0 +1,14 @@
+[
+  {
+    "img": "http://lorempixel.com/300/200/sports/",
+    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat, et!"
+  },
+  {
+    "img": "http://lorempixel.com/300/200/city/",
+    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat, et!"
+  },
+  {
+    "img": "http://lorempixel.com/300/200/animals/",
+    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat, et!"
+  }
+]
